@@ -1,5 +1,5 @@
-# Walking-Animation
-Simple 2D walking animation made in canvas
+## Walking-Animation
+Simple 2D walking/running animation made in canvas and JavaScript
 
 ## How to run 
 Install required dependencies.
@@ -7,11 +7,12 @@ Then you can run
 ```html
 npm start
 ```
-to run the http-server and go to 
+which will allow you to run the http-server.
+Type the address below in your address bar: 
 ```html
 http://127.0.0.1:8080/walk-animation.html
 ```
-to watch the animation in action!
+and watch the animation in action!
 
 ### Screenshot
 ![](https://github.com/miladgy/Walking-Animation/raw/master/screenshot.png)
