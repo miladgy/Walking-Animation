@@ -50,12 +50,12 @@ window.onload = () => {
       if (isCharacterLoaded) {
         context.drawImage(
           spriteImage,
-          currentCell * cellWidth,
+          0,
           0,
           cellWidth,
           cellHeight,
-          moveX,
-          moveY,
+          80,
+          250,
           100,
           100
         );
