@@ -1,0 +1,24 @@
+{
+  "name": "walking-animation",
+  "version": "1.0.0",
+  "description": "A simple 2D walking animation made in canvas",
+  "main": "walk-animation.js",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miladgy/Walking-Animation.git"
+  },
+  "author": "Milad G. Yazdi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miladgy/Walking-Animation/issues"
+  },
+  "homepage": "https://github.com/miladgy/Walking-Animation#readme"
+}
